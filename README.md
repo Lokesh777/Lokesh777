@@ -75,15 +75,15 @@
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/lokeshkumar777" />
     </a>
     <a href="https://twitter.com/lkdevgan777?t=DA9GwpQHbc-SCMDAgdKn0Q&s=09">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"                      alt="https://twitter.com/lkdevgan777?t=DA9GwpQHbc-SCMDAgdKn0Q&s=09" />
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/lkdevgan777?t=DA9GwpQHbc-SCMDAgdKn0Q&s=09" />
     </a>
     <a title="lokeshdevgan777@gmail.com" href="mailto:lokeshdevgan777@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lokeshdevgan@gmail.com"/>
     </a>
     
-      <a  href="https://github.com/Lokesh777">
+<!--       <a title="Github_profile" href="https://github.com/Lokesh777"> -->
        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    </a>
+<!--     </a> -->
 </p>
 <br>
 <!----------------------------------- GitHub Stats Section ------------------------------------>
