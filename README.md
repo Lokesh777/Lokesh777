@@ -98,12 +98,12 @@
 
 <!-- ---------------------------------git deposite----------------------------->
 
-<h2 align="center"><i>📕 Pinned Repositories</i></h2>
+<!-- <h2 align="center"><i>📕 Pinned Repositories</i></h2>
 
 <a href="https://github.com/Lokesh777/kimayeclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh777&repo=kimayeclone&hide_border=true&theme=radical" />
 </a>
-
+ -->
 <!-- ________________________-____________________contribution___________________________ -->
 
 <h2 align="center"><i>📈 Contribution Graph</i></h2>
