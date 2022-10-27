@@ -31,8 +31,7 @@
 </p>
 <br>
 <!-- -----------------------------------about details with resume ---------------------------- -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-109&label=Profile%20views&color=0e75b6&style=flat" alt="aman-109" /> </p>
-
+<img align="right" alt="coding gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔭 I’m currently working on **Front-End and Back-End Projects**
 
@@ -46,7 +45,7 @@
 
 - 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/11aGyyK6iuBeQ_mvU9WPJEbmzsREkxfMP/view">Resume</a> 
 
-- ⚡ Fun fact **I am Funny**
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2 align="center"><i>Tech Stack</i></h2>
