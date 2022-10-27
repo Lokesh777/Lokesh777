@@ -30,6 +30,23 @@
     </a>
 </p>
 <br>
+<!-- -----------------------------------about details with resume ---------------------------- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-109&label=Profile%20views&color=0e75b6&style=flat" alt="aman-109" /> </p>
+
+
+- 🔭 I’m currently working on **Front-End and Back-End Projects**
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👨‍💻 All of my projects are available at <a target="_blank" rel="noreferrer" href="https://lokesh777.github.io/">Portfolio</a>
+
+- 💬 Ask me about **React Js, Redux, MongoDB, Express, Node**
+
+- 📫 How to reach me **lokeshdevgan777@gmail.com**
+
+- 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/11aGyyK6iuBeQ_mvU9WPJEbmzsREkxfMP/view">Resume</a> 
+
+- ⚡ Fun fact **I am Funny**
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2 align="center"><i>Tech Stack</i></h2>
