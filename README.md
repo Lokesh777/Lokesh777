@@ -39,7 +39,7 @@
 
 - 👨‍💻 All of my projects are available at <a target="_blank" rel="noreferrer" href="https://lokesh777.github.io/">Portfolio</a>
 
-- 💬 Ask me about **React Js, Redux, MongoDB, Express, Node**
+- 💬 Ask me about **Html, Css, Basic Algo, React Js, Redux, MongoDB, Express, Node**
 
 - 📫 How to reach me **lokeshdevgan777@gmail.com**
 
