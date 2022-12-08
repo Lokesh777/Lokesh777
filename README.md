@@ -23,10 +23,10 @@
 
 <p align="center">
     <a href="https://github.com/Lokesh777">
-        <img src="https://komarev.com/ghpvc/?username=Lokesh777&label=Profile%20views&color=0e75b6&style=flat" alt="Lokesh Kumar" />
+        <img src="https://komarev.com/ghpvc/?username=mehrapankaj332&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj332" />
     </a>
-     <a href="https://github.com/Lokesh777?tab=followers">
-        <img src="https://img.shields.io/github/followers/Lokesh777?label=Followers&style=social" alt="followers-count">
+     <a href="https://github.com/mehrapankaj332?tab=followers">
+        <img src="https://img.shields.io/github/followers/mehrapankaj332?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
@@ -41,9 +41,9 @@
 
 - 💬 Ask me about **Html, Css, Basic Algo, React Js, Redux, MongoDB, Express, Node**
 
-- 📫 How to reach me **lokeshdevgan777@gmail.com**
+- 📫 How to reach me **mehrapankaj332@gmail.com**
 
-- 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1DqxycB3nHBcwGg1dhIOuW98R_CR8yWWX/view?usp=sharing">Resume</a> 
+- 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="">Resume</a> 
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -71,14 +71,14 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2 align="center"><i>Let's Connect</i></h2>
 <p align="center">  
-    <a href="https://www.linkedin.com/in/lokeshkumar777">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/lokeshkumar777" />
+    <a href="https://www.linkedin.com/in/pankaj-mehra-9411aa178/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/pankaj-mehra-9411aa178/" />
     </a>
-    <a href="https://twitter.com/lkdevgan777?t=DA9GwpQHbc-SCMDAgdKn0Q&s=09">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/lkdevgan777?t=DA9GwpQHbc-SCMDAgdKn0Q&s=09" />
+    <a href="https://twitter.com/mehrapankaj332">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/mehrapankaj332" />
     </a>
-    <a title="lokeshdevgan777@gmail.com" href="mailto:lokeshdevgan777@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lokeshdevgan@gmail.com"/>
+    <a title="mehrapankaj332@gmail.com" href="mailto:mehrapankaj332@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mehrapakaj332@gmail.com"/>
     </a>
     
     
@@ -90,27 +90,27 @@
 <p align="center">
   
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lokesh777&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehrapankaj332&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrapankaj332&hide_border=true&theme=radical" />
 </p>
 
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&&theme=highcontrast" alt="Lokesh777"/> -->
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&&theme=highcontrast" alt="mehrapankaj332"/> -->
   </p>
 <p align="center">
 </p>
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
 <p align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokesh777&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Lokesh777" /> -->
- <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh777&layout=compact&hide_border=true&theme=radical" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrapankaj332&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="mehrapankaj332" /> -->
+ <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrapankaj332&layout=compact&hide_border=true&theme=radical" />
 </p>
 <p align="center">
 </p>
 <br>
 <!----------------------------------- Git Status ------------------------------------>
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokesh777&show_icons=true&locale=en&&theme=highcontrast" alt="Lokesh777" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrapankaj332&show_icons=true&locale=en&&theme=highcontrast" alt="Lokesh777" /></p>
 <br>
-<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia" alt="Lokesh777" /></a></p> -->
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia" alt="mehrapankaj332" /></a></p> -->
 <br>
 
 
@@ -119,7 +119,7 @@
 <!-- <h2 align="center"><i>📕 Pinned Repositories</i></h2>
 
 <a href="https://github.com/Lokesh777/kimayeclone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh777&repo=kimayeclone&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehrapankaj332&repo=kimayeclone&hide_border=true&theme=radical" />
 </a>
  -->
 <!-- ________________________-____________________contribution___________________________ -->
