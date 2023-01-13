@@ -39,7 +39,7 @@
 
 - 👨‍💻 All of my projects are available at <a target="_blank" rel="noreferrer" href="https://lokesh777.github.io/">Portfolio</a>
 
-- 💬 Ask me about **Html, Css, Basic Algo, React Js, Redux, MongoDB, Express, Node**
+- 💬 Ask me about **Html, Css, Basic Algo, React Js, Redux, MongoDB, ExpressJS, NodeJS**
 
 - 📫 How to reach me **lokeshdevgan777@gmail.com**
 
@@ -90,27 +90,34 @@
 <p align="center">
   
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lokesh777&show_icons=true&hide_border=true&theme=radical" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lokesh777&show_icons=true&hide_border=true&theme=radical" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&hide_border=true&theme=radical" />
 </p>
+
 
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&&theme=highcontrast" alt="Lokesh777"/> -->
   </p>
 <p align="center">
+    
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lokesh777&theme=github-dark" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lokesh777&theme=2077"/>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 </p>
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
 <p align="center">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokesh777&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Lokesh777" /> -->
- <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh777&layout=compact&hide_border=true&theme=radical" />
+<!--  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh777&layout=compact&hide_border=true&theme=radical" /> -->
 </p>
 <p align="center">
 </p>
 <br>
 <!----------------------------------- Git Status ------------------------------------>
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokesh777&show_icons=true&locale=en&&theme=highcontrast" alt="Lokesh777" /></p>
+<!--  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokesh777&show_icons=true&locale=en&&theme=highcontrast" alt="Lokesh777" /></p> -->
 <br>
-<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia" alt="Lokesh777" /></a></p> -->
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia" alt="Lokesh777" /></a></p> 
 <br>
 
 
