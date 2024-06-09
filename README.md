@@ -12,7 +12,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full-Stack-web-Developer skilled in Tech stack and focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Full-Stack-web-Developer skilled in Tech stack and focused on writing clean, elegant, efficient code.</i>
 </h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
@@ -33,9 +33,11 @@
 <!-- -----------------------------------about details with resume ---------------------------- -->
 <img align="right" alt="coding gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 I’m currently working on **Front-End and Back-End Projects**
+- 🔭 I’m currently working on **Skizaa Education as Frontend Developer**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently Working **NextJS, React-native**
+  
+- 📫 Company Product is secure but you can see the landing page on Skizaa.com
 
 - 👨‍💻 All of my projects are available at <a target="_blank" rel="noreferrer" href="https://lokesh777.github.io/">Portfolio</a>
 
