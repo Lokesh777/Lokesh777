@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **lokeshdevgan777@gmail.com**
 
-- 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1caAXEc8m0wzjDe_YxOvhliKxWkS7mSVN/view?usp=sharing">Resume</a> 
+- 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1WKsjg8wV1jZVTg3h7JXUn3GX_XkJSU52/view?usp=sharing">Resume</a> 
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
