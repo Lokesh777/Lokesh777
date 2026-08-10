@@ -81,6 +81,7 @@
 <td width="100%">
 
 ### 📚 ExamSaathi — AI Exam Prep Platform
+
 A full-stack platform helping Indian competitive-exam aspirants prepare smarter with AI-powered mock tests.
 
 - 🔐 JWT auth with refresh-token sessions, bcrypt password hashing, rate-limiting & Helmet security
@@ -97,16 +98,32 @@ A full-stack platform helping Indian competitive-exam aspirants prepare smarter 
 
 <br>
 
-<!----------------------------------- GitHub Stats ------------------------------------>
+<!----------------------------------- Experience ------------------------------------>
+## 💼 Experience
+
+### Founding Engineer — Prompt BI *(formerly Skizaa)*
+**Remote, India** · Apr 2023 – Apr 2026
+
+As the founding engineer, owned both frontend and backend across the entire product:
+
+- Owned frontend architecture across 6+ product modules (AI Chat, DataRoom, Reports, Forms, Billing, Team Management) using **React 18, Next.js 13, TypeScript, and Redux Toolkit**
+- Built backend APIs for authentication (JWT, HTTP-only cookies, token refresh), user onboarding, profile management, and feature-flag updates using **Node.js and Express.js**
+- Architected an Enterprise DataRoom (Airtable-style) using **TanStack Table** and **React Virtuoso** — 10+ column types, virtualized rendering for 50,000+ rows, cutting render time from 3s to 300ms
+- Built an AI-powered dashboard system with natural language querying and drag-and-drop widgets, reducing UI dataset size by 70–80% via backend AI prompt filtering
+- Improved Core Web Vitals through image optimization, bundle analysis, and dynamic imports — LCP up 40%, bundle size down 35%
+- Developed real-time analytics dashboards using **Recharts, ECharts, ApexCharts, and D3.js** with drill-downs and memoized rendering
+- Enforced granular RBAC using **CASL**, AuthGuard, and AclGuard across 4 role levels for multi-tenant organizations
+- Integrated **Stripe** billing, including plans, checkout, seat management, and invoice UI
+- Used AI-assisted tools (GitHub Copilot, Cursor, OpenCode) in Agile sprints with CI/CD via GitHub Actions
+
+<br>
+
 ## 📊 GitHub Stats
+<!----------------------------------- GitHub Stats ------------------------------------>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lokesh777&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh777&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&hide_border=true&theme=tokyonight" alt="streak stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Lokesh777&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&hide_border=true&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -114,9 +131,8 @@ A full-stack platform helping Indian competitive-exam aspirants prepare smarter 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lokesh777&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </div>
-
 <br>
 
 <!----------------------------------- Snake ------------------------------------>
