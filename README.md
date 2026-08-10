@@ -119,6 +119,15 @@ A full-stack platform helping Indian competitive-exam aspirants prepare smarter 
 
 <br>
 
+<!----------------------------------- Snake ------------------------------------>
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lokesh777/Lokesh777/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="95%"/>
+</div>
+
+<br>
+
 <!----------------------------------- Connect ------------------------------------>
 ## 🤝 Let's Connect
 
