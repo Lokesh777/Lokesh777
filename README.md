@@ -123,13 +123,14 @@ As the founding engineer, owned both frontend and backend across the entire prod
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Lokesh777&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars" />
+    <br>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&hide_border=true&theme=tokyonight" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokesh777&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
-
+<br>
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lokesh777&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </div>
@@ -151,9 +152,11 @@ As the founding engineer, owned both frontend and backend across the entire prod
   <a href="https://www.linkedin.com/in/lokeshkumar777">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/lkdevgan777">
+    <br>
+  <a href="https://twitter.com/lokeshdevgan777">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+    <br>
   <a href="mailto:lokeshdevgan777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
